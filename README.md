@@ -13,9 +13,8 @@ fique centralizada na tela e outra section para alinhar os ícones ao lado direi
 as imagens da rede social selecionada. Desta forma, cria-se um efeito de visualização da página dentro de uma tela de smartphone simulando uma página real.
 
 ## Projeto em funcionamento
-Abaixo um vídeo do projeto funcional e hospedado através do Github Pages:
 
-https://github.com/user-attachments/assets/9d249a8b-14d6-4e7a-b667-921475332773
+![Projeto-Sociais-Gif-Optimized](https://github.com/user-attachments/assets/81d7314a-a7c8-43d0-af48-020cb003635b)
 
 **Acesse o projeto através do link:** https://pgdinelli.github.io/projeto-sociais/
 
